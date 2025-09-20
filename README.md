@@ -14,12 +14,22 @@ This is a **lite version**, perfect for learning, showcasing skills, and GitHub 
 ---
 
 ## 📂 Project Structure
+
 HRMS_Lite/
+
 │── main.py # Entry point with menu
+
 │── utils.py # Database helpers (load/save)
+
 │── employees.py # Employee management
+
 │── attendance.py # Attendance management
+
 │── leaves.py # Leave management
+
 │── payroll.py # Payroll management
+
 │── db.json # JSON file acting as database
+
 │── README.md # Project documentation
+

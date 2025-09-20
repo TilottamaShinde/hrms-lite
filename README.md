@@ -33,3 +33,8 @@ HRMS_Lite/
 
 │── README.md # Project documentation
 
+## ⚙️ Setup & Run
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/HRMS_Lite.git
+   cd HRMS_Lite

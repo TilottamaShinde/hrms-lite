@@ -33,8 +33,27 @@ HRMS_Lite/
 
 │── README.md # Project documentation
 
-## ⚙️ Setup & Run
+##  Setup & Run
 1. **Clone the repository**
    ```bash
    git clone https://github.com/your-username/HRMS_Lite.git
    cd HRMS_Lite
+
+Run
+python main.py
+
+
+## Database
+
+Data is stored in a local file db.json (acts as a database).
+
+
+## Future Enhancements
+
+User authentication (Admin/Employee login)
+
+GUI with Tkinter or Flask Web App
+
+Report generation (PDF/Excel)
+
+Integration with SQL database

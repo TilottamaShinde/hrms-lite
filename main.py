@@ -1,4 +1,9 @@
 from utils import init_db
+from employee import add_employee, view_employees, delete_employee
+from attendance import mark_attendance, view_attendance
+from leaves import apply_leave, view_leaves, update_leave_status
+from payroll import generate_payslip, view_payroll
+
 
 def main():
     init_db()

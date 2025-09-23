@@ -33,6 +33,8 @@ HRMS_Lite/
 
 │── README.md # Project documentation
 
+
+
 ##  Setup & Run
 1. **Clone the repository**
    ```bash
@@ -57,3 +59,8 @@ GUI with Tkinter or Flask Web App
 Report generation (PDF/Excel)
 
 Integration with SQL database
+
+
+
+## Writer
+Tilottama Shinde

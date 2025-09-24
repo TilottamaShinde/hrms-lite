@@ -47,7 +47,7 @@ python main.py
 
 ## Database
 
-Data is stored in a local file db.json (acts as a database).
+Data is stored in a local file db.json (acts as a database). 
 
 
 ## Future Enhancements
